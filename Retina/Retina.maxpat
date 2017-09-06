@@ -8073,7 +8073,6 @@
 			}
 , 			{
 				"box" : 				{
-					"active" : 0,
 					"bgcolor" : [ 0.2, 0.2, 0.2, 1.0 ],
 					"bgoncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"id" : "obj-95",
@@ -8084,29 +8083,11 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 29.5, 761.0, 59.5, 26.170898 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 466.0, 157.170898, 43.0, 21.829102 ],
+					"presentation_rect" : [ 466.0, 168.170898, 43.0, 21.829102 ],
 					"style" : "",
 					"text" : "Edit",
 					"texton" : "Edit",
 					"textoncolor" : [ 1.0, 1.0, 1.0, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontface" : 0,
-					"fontname" : "Arial",
-					"fontsize" : 13.0,
-					"id" : "obj-81",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 663.0, 478.0, 182.5, 21.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 319.0, 181.0, 182.0, 21.0 ],
-					"style" : "",
-					"text" : "Debug output to Max Console",
-					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
 				}
 
 			}
@@ -8121,7 +8102,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 663.0, 446.0, 161.5, 21.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 319.0, 157.170898, 130.0, 21.0 ],
+					"presentation_rect" : [ 319.0, 168.170898, 130.0, 21.0 ],
 					"style" : "",
 					"text" : "Custom color palette",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
@@ -8144,7 +8125,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 176.5, 240.226501, 22.208344, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 296.5, 159.170898, 18.0, 18.0 ],
+					"presentation_rect" : [ 296.5, 170.170898, 18.0, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.toggle",
@@ -8186,7 +8167,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 663.0, 415.787506, 77.0, 21.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 293.5, 100.0, 115.75, 21.0 ],
+					"presentation_rect" : [ 293.5, 111.0, 115.75, 21.0 ],
 					"style" : "",
 					"text" : "Project File",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
@@ -8271,7 +8252,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 101.0, 253.226501, 62.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 431.75, 100.0, 77.25, 22.0 ],
+					"presentation_rect" : [ 431.75, 111.0, 77.25, 22.0 ],
 					"style" : "",
 					"textjustification" : 1
 				}
@@ -8379,7 +8360,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 837.75, 352.25296, 113.0, 21.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 293.5, 125.0, 115.75, 21.0 ],
+					"presentation_rect" : [ 293.5, 136.0, 115.75, 21.0 ],
 					"style" : "",
 					"text" : "Your Launchpad",
 					"textcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ]
@@ -8434,7 +8415,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 24.0, 253.226501, 58.5, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 431.75, 125.0, 77.25, 22.0 ],
+					"presentation_rect" : [ 431.75, 136.0, 77.25, 22.0 ],
 					"style" : "",
 					"textjustification" : 1
 				}
@@ -8448,7 +8429,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 857.5, 478.0, 91.75, 21.0 ],
+					"patching_rect" : [ 663.0, 478.0, 286.25, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 287.0, 75.0, 21.0 ],
 					"style" : "",
@@ -9009,7 +8990,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 881.5, 445.5, 69.0, 22.0 ],
+					"patching_rect" : [ 880.25, 446.0, 69.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"allwindowsactive" : 0,
 						"audiosupport" : 1,
