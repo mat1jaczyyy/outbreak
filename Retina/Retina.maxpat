@@ -468,7 +468,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 954.0, 325.0, 432.0, 392.0 ],
+						"rect" : [ 537.0, 102.0, 1246.0, 839.0 ],
 						"bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 						"editing_bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 						"bglocked" : 0,
@@ -1513,7 +1513,7 @@
 , 							{
 								"box" : 								{
 									"angle" : 287.219177,
-									"bgcolor" : [ 0.698413, 0.365079, 0.0 ],
+									"bgcolor" : [ 0.285714, 0.079365, 0.0 ],
 									"bordercolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ],
 									"id" : "obj-125",
 									"maxclass" : "panel",
@@ -1764,7 +1764,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 120.828125, 274.0, 297.5, 22.0 ],
 									"style" : "",
-									"text" : "Velocity : 126",
+									"text" : "Velocity: 127",
 									"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"textjustification" : 1
 								}
@@ -1941,7 +1941,7 @@
 									"angle" : 287.219177,
 									"bgcolor" : [ 0.285714, 0.079365, 0.0 ],
 									"border" : 3,
-									"bordercolor" : [ 1.0, 1.0, 1.0, 0.0 ],
+									"bordercolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"id" : "obj-282",
 									"maxclass" : "panel",
 									"mode" : 0,
@@ -1962,7 +1962,7 @@
 									"angle" : 287.219177,
 									"bgcolor" : [ 0.698413, 0.365079, 0.0 ],
 									"border" : 3,
-									"bordercolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"bordercolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"id" : "obj-218",
 									"maxclass" : "panel",
 									"mode" : 0,
@@ -5674,9 +5674,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 583.328125, 274.881348, 95.0, 22.0 ],
+									"patching_rect" : [ 583.328125, 274.881348, 91.0, 22.0 ],
 									"style" : "",
-									"text" : "set Velocity : $1"
+									"text" : "set Velocity: $1"
 								}
 
 							}
