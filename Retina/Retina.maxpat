@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 0.0, 45.0, 1920.0, 955.0 ],
+		"rect" : [ 103.0, 290.0, 534.0, 313.0 ],
 		"bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 		"editing_bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 		"bglocked" : 0,
@@ -38,7 +38,7 @@
 		"tags" : "",
 		"style" : "",
 		"subpatcher_template" : "",
-		"title" : "Retina 2.0",
+		"title" : "Retina 2.1",
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-106",
@@ -416,9 +416,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 663.0, 852.585449, 198.0, 49.0 ],
+					"patching_rect" : [ 663.0, 852.585449, 201.0, 49.0 ],
 					"style" : "",
-					"text" : "window flags nogrow, window flags nomaximize, title \"Retina 2.0\", window exec"
+					"text" : "window flags nogrow, window flags nomaximize, title \"Retina 2.1\", window exec"
 				}
 
 			}
@@ -468,7 +468,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 0.0, 39.0, 1514.0, 965.0 ],
+						"rect" : [ 580.0, 313.0, 432.0, 482.0 ],
 						"bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 						"editing_bgcolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
 						"bglocked" : 1,
@@ -779,8 +779,8 @@
 									"format" : 6,
 									"id" : "obj-182",
 									"maxclass" : "flonum",
-									"maximum" : 100,
-									"minimum" : 0,
+									"maximum" : 100.0,
+									"minimum" : 0.0,
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
@@ -834,8 +834,8 @@
 									"format" : 6,
 									"id" : "obj-178",
 									"maxclass" : "flonum",
-									"maximum" : 100,
-									"minimum" : 0,
+									"maximum" : 100.0,
+									"minimum" : 0.0,
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
@@ -889,8 +889,8 @@
 									"format" : 6,
 									"id" : "obj-169",
 									"maxclass" : "flonum",
-									"maximum" : 360,
-									"minimum" : 0,
+									"maximum" : 360.0,
+									"minimum" : 0.0,
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
@@ -11778,7 +11778,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 287.0, 75.0, 21.0 ],
 					"style" : "",
-					"text" : "Version 2.0",
+					"text" : "Version 2.1",
 					"textcolor" : [ 0.396078, 0.396078, 0.396078, 1.0 ]
 				}
 
@@ -12425,7 +12425,7 @@
 					"bgfillcolor_proportion" : 0.39,
 					"bgfillcolor_type" : "color",
 					"id" : "obj-9",
-					"items" : [ "AU DLS Synth 1", ",", "Launchpad Pro Live Port", ",", "Launchpad Pro Standalone Port", ",", "Launchpad Pro MIDI Port", ",", "from Max 1", ",", "from Max 2" ],
+					"items" : [ "AU DLS Synth 1", ",", "from Max 1", ",", "from Max 2" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -12464,7 +12464,7 @@
 					"bgfillcolor_proportion" : 0.39,
 					"bgfillcolor_type" : "color",
 					"id" : "obj-22",
-					"items" : [ "Launchpad Pro Live Port", ",", "Launchpad Pro Standalone Port", ",", "Launchpad Pro MIDI Port", ",", "to Max 1", ",", "to Max 2" ],
+					"items" : [ "to Max 1", ",", "to Max 2" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -13386,14 +13386,7 @@
 			"obj-73" : [ "live.toggle", "live.toggle", 0 ]
 		}
 ,
-		"dependency_cache" : [ 			{
-				"name" : "mat1jaczyyyPalette",
-				"bootpath" : "~/Plugins",
-				"patcherrelativepath" : "../../Plugins",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
- ],
+		"dependency_cache" : [  ],
 		"autosave" : 0
 	}
 
