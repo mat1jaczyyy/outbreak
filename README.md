@@ -4,7 +4,7 @@ Outbreak is a set of Max for Live plugins whose purpose is to aid in quickly pro
 
 ## System Requirements
 
-* [https://www.ableton.com/en/live/](Ableton Live)
+* [Ableton Live](https://www.ableton.com/en/live/)
     * **9 Suite** (32-bit or 64-bit) or **10 Suite** (or their Trial counterparts).
     * Must satisfy all of [Ableton's System Requirements](https://help.ableton.com/hc/en-us/articles/115001663530-Live-10-Minimum-System-Requirements).
 * Cycling '74 Max
