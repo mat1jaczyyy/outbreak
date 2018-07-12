@@ -22,4 +22,4 @@ There are no specific installation instructions for working with Outbreak, as it
 
 ## Usage
 
-For detailed instructions on using Outbreak, refer to the latest [Documentation](Outbreak Documentation.pdf).
+For detailed instructions on using Outbreak, refer to the latest [Documentation](https://github.com/mat1jaczyyy/outbreak/blob/master/Outbreak%20Documentation.pdf).
