@@ -18,7 +18,7 @@ Outbreak is a set of Max for Live plugins whose purpose is to aid in quickly pro
 
 ## Installation
 
-There are no specific installation instructions for working with Outbreak, as it works out of the box no matter where you've placed it, but it is recommended to keep them inside the **Current Project** folder to enable easier sharing of your projects (the recipient will not need to download Outbreak separately, and the project will work out of the box provided the recipient satisfies the System Requirements). You can easily make your project folder perfectly shareable by selecting *Collect All and Save* in Ableton Live’s File menu.
+There are no specific installation instructions for working with Outbreak, as it works out of the box no matter where you've placed it, but it is recommended to keep the devices inside the **Current Project** folder to enable easier sharing of your projects (the recipient will not need to download Outbreak separately, and the project will work out of the box provided the recipient satisfies the System Requirements). You can easily make your project folder perfectly shareable by selecting *Collect All and Save* in Ableton Live’s File menu.
 
 ## Usage
 
