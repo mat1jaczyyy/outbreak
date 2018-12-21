@@ -9,7 +9,7 @@ Outbreak is a set of Max for Live plugins whose purpose is to aid in quickly pro
     * Must satisfy all of [Ableton's System Requirements](https://help.ableton.com/hc/en-us/articles/115001663530-Live-10-Minimum-System-Requirements).
 * [Cycling '74 Max](https://cycling74.com/downloads)
     * If using Live 9 Suite, **Max 7** or higher is officially supported and recommended. Max 6 might work, but has not been tested and is not officially supported.
-    * If using Live 10 Suite, the **built-in Max 8** is officially supported..
+    * If using Live 10 Suite, the **built-in Max 8** is officially supported.
 * OS
     * **Windows and macOS** are officially supported.
     * Running Ableton on **Linux** via WINE might work, but has not been tested and is not officially supported.
