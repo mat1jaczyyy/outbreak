@@ -1,3 +1,13 @@
+> [!WARNING]
+> 
+> ## **OUTBREAK IS ABANDONED**
+> 
+> While still extremely useful for Ableton Live-based Launchpad Lightshows, it's been functionally superseded by [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) since mid-2019.
+>
+> Outbreak has issues with more recent releases of Live 10 and Live 11 and I no longer have interest in patching these issues. If someone is interested, feel free to fork and maintain it yourself.
+>
+> **If you want to use Outbreak safely, the best version of Live to use is 10.0.1.**
+
 # Outbreak - a modular set of Max for Live Devices for Launchpad Lightshows
 
 Outbreak is a set of Max for Live plugins whose purpose is to aid in quickly producing modular and responsive lightshows for the Novation Launchpad controllers with minimal effort. They can also be chained with other plugins outside the Outbreak set and the included Ableton MIDI effects. Outbreak devices are designed with performance and flexibility in mind, so they can be used for all kinds of different purposes.
